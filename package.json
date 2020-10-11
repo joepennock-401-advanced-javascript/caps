@@ -30,5 +30,10 @@
   "homepage": "https://github.com/joepennock-401-advanced-javascript/caps#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "faker": "^5.1.0"
   }
 }
