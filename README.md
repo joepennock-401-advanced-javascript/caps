@@ -1,5 +1,3 @@
-[ANOTHER README EXAMPLE HERE](https://github.com/codefellows/seattle-javascript-401n17/blob/master/reference/submission-instructions/labs/example/README.md)
-
 # LAB - Class 16
 
 ## Project: Code Academy Parcel Service - CAPS
@@ -9,7 +7,7 @@
 ### Links and Resources
 
 - [GitHub Repository](https://github.com/joepennock-401-advanced-javascript/caps)
-- [GitHub PR]()
+- [GitHub PR](https://github.com/joepennock-401-advanced-javascript/caps/pull/1)
 - [ci/cd](https://github.com/joepennock-401-advanced-javascript/caps/actions)
 <!-- - [back-end server url](http://xyz.com) (when applicable) -->
 <!-- - [front-end application](http://xyz.com) (when applicable) -->
