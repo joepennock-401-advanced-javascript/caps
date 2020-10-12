@@ -70,3 +70,8 @@ UML rough draft:
 
 UML final - phase 1:
 ![phase 1 final UML](./assets/caps.png)
+
+### Collaboration
+
+- Ryan Geddes [Gitbub](https://github.com/Ryan-Geddes)
+- Davee Sok [Github](https://github.com/daveeS987)
